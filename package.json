@@ -1,6 +1,6 @@
 {
   "name": "mssql-2-sequelize-bo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reverse engineer an existing mssql database into a Sequelize database model.",
   "main": "index.js",
   "scripts": {
